@@ -3,6 +3,15 @@ import pandas as pd
 import joblib
 import os
 
+
+
+import logging
+
+logging.basicConfig(filename="logs/predictions.log",
+                    level=logging.INFO,
+                    format="%(asctime)s - %(message)s")
+
+
 model_path = "models/best_model.pkl"
 print(f"Loading model from {model_path}...")
 model = joblib.load(model_path)
