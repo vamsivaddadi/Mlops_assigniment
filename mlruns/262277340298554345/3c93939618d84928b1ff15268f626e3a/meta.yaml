@@ -1,0 +1,14 @@
+artifact_uri: file:///media/computervision2/SSD2/vamsi/assigniment/iris-ml-project/mlruns/262277340298554345/3c93939618d84928b1ff15268f626e3a/artifacts
+end_time: 1755323478070
+entry_point_name: ''
+experiment_id: '262277340298554345'
+lifecycle_stage: active
+run_id: 3c93939618d84928b1ff15268f626e3a
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755323476417
+status: 3
+tags: []
+user_id: computervision2

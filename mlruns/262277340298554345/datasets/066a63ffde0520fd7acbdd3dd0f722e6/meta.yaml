@@ -1,0 +1,10 @@
+digest: a85144c4
+name: dataset
+profile: '{"num_rows": 119, "num_elements": 476}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal.length", "required":
+  true}, {"type": "double", "name": "sepal.width", "required": true}, {"type": "double",
+  "name": "petal.length", "required": true}, {"type": "double", "name": "petal.width",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "computervision2", "mlflow.source.name": "src/train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "82bb96625f3c774da45f532b77d435940fc0d363"}}'
+source_type: code

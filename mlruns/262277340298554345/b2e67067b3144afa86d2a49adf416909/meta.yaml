@@ -1,0 +1,14 @@
+artifact_uri: file:///media/computervision2/SSD2/vamsi/assigniment/iris-ml-project/mlruns/262277340298554345/b2e67067b3144afa86d2a49adf416909/artifacts
+end_time: 1755323479056
+entry_point_name: ''
+experiment_id: '262277340298554345'
+lifecycle_stage: active
+run_id: b2e67067b3144afa86d2a49adf416909
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755323478071
+status: 3
+tags: []
+user_id: computervision2

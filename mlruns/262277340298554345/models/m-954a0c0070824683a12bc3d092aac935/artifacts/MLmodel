@@ -1,0 +1,31 @@
+artifact_path: file:///media/computervision2/SSD2/vamsi/assigniment/iris-ml-project/mlruns/262277340298554345/models/m-954a0c0070824683a12bc3d092aac935/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.1.post1
+is_signature_from_type_hint: false
+mlflow_version: 3.2.0
+model_id: m-954a0c0070824683a12bc3d092aac935
+model_size_bytes: 959
+model_uuid: m-954a0c0070824683a12bc3d092aac935
+prompts: null
+run_id: 3c93939618d84928b1ff15268f626e3a
+signature:
+  inputs: '[{"type": "double", "name": "sepal.length", "required": true}, {"type":
+    "double", "name": "sepal.width", "required": true}, {"type": "double", "name":
+    "petal.length", "required": true}, {"type": "double", "name": "petal.width", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int8", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-16 05:51:16.453300'

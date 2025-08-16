@@ -1,0 +1,10 @@
+artifact_location: file:///media/computervision2/SSD2/vamsi/assigniment/iris-ml-project/mlruns/262277340298554345/models/m-388992e1439f45ab90b37a230f0d6928/artifacts
+creation_timestamp: 1755323478123
+experiment_id: '262277340298554345'
+last_updated_timestamp: 1755323478950
+model_id: m-388992e1439f45ab90b37a230f0d6928
+model_type: null
+name: model
+source_run_id: b2e67067b3144afa86d2a49adf416909
+status: 2
+status_message: null
